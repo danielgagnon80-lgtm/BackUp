@@ -1,0 +1,93 @@
+[
+  {
+    "id": "dcd2fd76-2c24-43dc-a80c-75245b5b8648",
+    "token": "0cc93ffba3daeb254e43c6c8b5f4f68d",
+    "is_active": false,
+    "created_by": "20475c25-8247-4c0f-9dd8-fc8228937209",
+    "created_at": "2026-03-10T20:08:35.375698+00:00",
+    "label": "Lien de partage",
+    "view_count": 0,
+    "first_viewed_at": null,
+    "last_viewed_at": null,
+    "notification_sent": false,
+    "notify_email": null
+  },
+  {
+    "id": "31d4494e-6790-47c8-af08-9df573a48134",
+    "token": "198c752459ed6e22c581335ae845e02f",
+    "is_active": false,
+    "created_by": "20475c25-8247-4c0f-9dd8-fc8228937209",
+    "created_at": "2026-03-10T20:24:22.928885+00:00",
+    "label": "Lien de partage",
+    "view_count": 0,
+    "first_viewed_at": null,
+    "last_viewed_at": null,
+    "notification_sent": false,
+    "notify_email": null
+  },
+  {
+    "id": "635d375c-cbaa-4445-85ae-67847dd60f3f",
+    "token": "b3cfa6a30b40646f48ab68acc6730c6b",
+    "is_active": false,
+    "created_by": "20475c25-8247-4c0f-9dd8-fc8228937209",
+    "created_at": "2026-03-21T13:34:43.55959+00:00",
+    "label": "Lien de partage",
+    "view_count": 0,
+    "first_viewed_at": null,
+    "last_viewed_at": null,
+    "notification_sent": false,
+    "notify_email": null
+  },
+  {
+    "id": "f873506a-4964-4677-90ad-b57eebce69bc",
+    "token": "585466dc0d04b826bd6cde236c3da019",
+    "is_active": false,
+    "created_by": "20475c25-8247-4c0f-9dd8-fc8228937209",
+    "created_at": "2026-03-21T13:38:43.4327+00:00",
+    "label": "Lien de partage",
+    "view_count": 0,
+    "first_viewed_at": null,
+    "last_viewed_at": null,
+    "notification_sent": false,
+    "notify_email": null
+  },
+  {
+    "id": "8dd078de-712f-4283-8608-7f03c1292793",
+    "token": "0e22eadf48e58ee214b20dfeb166a2fe",
+    "is_active": false,
+    "created_by": "20475c25-8247-4c0f-9dd8-fc8228937209",
+    "created_at": "2026-03-21T13:39:10.633402+00:00",
+    "label": "Lien de partage",
+    "view_count": 0,
+    "first_viewed_at": null,
+    "last_viewed_at": null,
+    "notification_sent": false,
+    "notify_email": null
+  },
+  {
+    "id": "c2bd196f-178b-43ad-aefe-e34bf0f950ce",
+    "token": "af2caa41f08db4271605d66d66d3d06b",
+    "is_active": false,
+    "created_by": "20475c25-8247-4c0f-9dd8-fc8228937209",
+    "created_at": "2026-04-08T14:51:09.097731+00:00",
+    "label": "Lien de partage",
+    "view_count": 0,
+    "first_viewed_at": null,
+    "last_viewed_at": null,
+    "notification_sent": false,
+    "notify_email": null
+  },
+  {
+    "id": "b070b33a-9668-4b83-af8f-35b7ac73cf20",
+    "token": "75c1b6c4dd43e12d1f5352d320ec8342",
+    "is_active": true,
+    "created_by": "20475c25-8247-4c0f-9dd8-fc8228937209",
+    "created_at": "2026-04-08T15:24:36.817015+00:00",
+    "label": "Lien de partage",
+    "view_count": 0,
+    "first_viewed_at": null,
+    "last_viewed_at": null,
+    "notification_sent": false,
+    "notify_email": "daniel.gagnon@cliniqueinfirmiere.ca"
+  }
+]
