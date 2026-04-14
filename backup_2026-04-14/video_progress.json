@@ -1,0 +1,24 @@
+[
+  {
+    "id": "583834d8-42ad-4f35-86c6-3d74c45a30af",
+    "user_id": "20475c25-8247-4c0f-9dd8-fc8228937209",
+    "video_title": "Accident Vasculaire Cérébrale",
+    "completed": false,
+    "completed_at": null,
+    "created_at": "2026-01-13T18:23:09.171841+00:00",
+    "updated_at": "2026-01-13T18:25:15.772392+00:00",
+    "last_position": 131,
+    "learner_email": null
+  },
+  {
+    "id": "767313a5-efbd-4c95-92f2-2e5e8116fee2",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "video_title": "Formation Secourisme En Milieux De Travail",
+    "completed": false,
+    "completed_at": null,
+    "created_at": "2026-02-19T15:15:18.620405+00:00",
+    "updated_at": "2026-02-19T15:15:28.20349+00:00",
+    "last_position": 12,
+    "learner_email": null
+  }
+]
