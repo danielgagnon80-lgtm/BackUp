@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-18T00:25:34.877Z",
+  "date": "2026-04-18T05:00:05.210Z",
   "tables": [
     {
       "table": "profiles",
@@ -58,7 +58,7 @@
     },
     {
       "table": "sollicitations_journal",
-      "rows": 443,
+      "rows": 628,
       "success": true
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "table": "activity_logs",
-      "rows": 10499,
+      "rows": 10501,
       "success": true
     },
     {
@@ -126,7 +126,7 @@
     ],
     "successCount": 5
   },
-  "totalRows": 34629,
+  "totalRows": 34816,
   "successCount": 17,
   "failCount": 0
 }
