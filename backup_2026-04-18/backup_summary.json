@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-18T00:24:50.834Z",
+  "date": "2026-04-18T00:25:34.877Z",
   "tables": [
     {
       "table": "profiles",
@@ -94,6 +94,37 @@
     "videos": 50,
     "certificats-pdf": 0,
     "CarteSecour": 500
+  },
+  "binaryBackup": {
+    "bucket": "SMT_FICHIER_PJ",
+    "files": [
+      {
+        "name": "Formateurs.xlsx",
+        "success": true,
+        "size": 7976
+      },
+      {
+        "name": "Nouveau_ETA_MARS_2026.xlsx",
+        "success": true,
+        "size": 9261
+      },
+      {
+        "name": "Presence.xlsx",
+        "success": true,
+        "size": 7793
+      },
+      {
+        "name": "Registre_SMT_2026.xlsx",
+        "success": true,
+        "size": 105228
+      },
+      {
+        "name": "Salle.xlsx",
+        "success": true,
+        "size": 24549
+      }
+    ],
+    "successCount": 5
   },
   "totalRows": 34629,
   "successCount": 17,
