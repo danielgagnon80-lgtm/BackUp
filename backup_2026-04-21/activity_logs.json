@@ -1,0 +1,32 @@
+[
+  {
+    "id": "76f9a06f-d42f-4654-8dd6-d983908ddbcd",
+    "user_id": "20475c25-8247-4c0f-9dd8-fc8228937209",
+    "user_email": "daniel.gagnon@cliniqueinfirmiere.ca",
+    "user_name": "Daniel Gagnon",
+    "action": "test",
+    "category": "cnesst",
+    "details": "Calendrier",
+    "metadata": {
+      "env": "dev",
+      "original_action": "consultation"
+    },
+    "created_at": "2026-04-21T03:32:18.011151+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "ba6b0329-0b12-4bbd-81f8-83049afbc977",
+    "user_id": "20475c25-8247-4c0f-9dd8-fc8228937209",
+    "user_email": "daniel.gagnon@cliniqueinfirmiere.ca",
+    "user_name": "Daniel Gagnon",
+    "action": "test",
+    "category": "cnesst",
+    "details": "activity-charts",
+    "metadata": {
+      "env": "dev",
+      "original_action": "consultation"
+    },
+    "created_at": "2026-04-21T03:35:55.147252+00:00",
+    "user_role": "admin"
+  }
+]
