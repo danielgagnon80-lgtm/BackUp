@@ -1,0 +1,107 @@
+[
+  {
+    "id": "81f23d8b-dd33-49ec-a9a7-1225a772918e",
+    "user_id": "20475c25-8247-4c0f-9dd8-fc8228937209",
+    "user_email": "daniel.gagnon@cliniqueinfirmiere.ca",
+    "user_name": "Daniel Gagnon",
+    "action": "test",
+    "category": "cnesst",
+    "details": "activity-charts",
+    "metadata": {
+      "env": "dev",
+      "original_action": "consultation"
+    },
+    "created_at": "2026-04-24T00:45:23.047303+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "be707cf4-da80-4980-adf3-e557e302e47f",
+    "user_id": "20475c25-8247-4c0f-9dd8-fc8228937209",
+    "user_email": "daniel.gagnon@cliniqueinfirmiere.ca",
+    "user_name": "Daniel Gagnon",
+    "action": "test",
+    "category": "cnesst",
+    "details": "activity-charts",
+    "metadata": {
+      "env": "dev",
+      "original_action": "consultation"
+    },
+    "created_at": "2026-04-24T00:48:57.527537+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "3e02bd25-9168-460d-a7df-26f9f489d9a2",
+    "user_id": "20475c25-8247-4c0f-9dd8-fc8228937209",
+    "user_email": "daniel.gagnon@cliniqueinfirmiere.ca",
+    "user_name": "Daniel Gagnon",
+    "action": "test",
+    "category": "cnesst",
+    "details": "Visualiseur",
+    "metadata": {
+      "env": "dev",
+      "original_action": "consultation"
+    },
+    "created_at": "2026-04-24T00:57:07.458252+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "8a1dd2b9-00d1-48a1-91bf-c231443bf68c",
+    "user_id": "20475c25-8247-4c0f-9dd8-fc8228937209",
+    "user_email": "daniel.gagnon@cliniqueinfirmiere.ca",
+    "user_name": "Daniel Gagnon",
+    "action": "test",
+    "category": "cnesst",
+    "details": "Visualiseur CNESST",
+    "metadata": {
+      "env": "dev",
+      "original_action": "visualiseur"
+    },
+    "created_at": "2026-04-24T00:57:11.099304+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "ce498c67-18c8-4008-9ec3-1a9a7557e4ed",
+    "user_id": "20475c25-8247-4c0f-9dd8-fc8228937209",
+    "user_email": "daniel.gagnon@cliniqueinfirmiere.ca",
+    "user_name": "Daniel Gagnon",
+    "action": "test",
+    "category": "cnesst",
+    "details": "ETA000658719 — Parc-aventure Joannès",
+    "metadata": {
+      "env": "dev",
+      "original_action": "entreprise vue"
+    },
+    "created_at": "2026-04-24T00:57:17.773543+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "801f6ec9-ab2f-4b72-9a7d-d3bd83e1e9e7",
+    "user_id": "20475c25-8247-4c0f-9dd8-fc8228937209",
+    "user_email": "daniel.gagnon@cliniqueinfirmiere.ca",
+    "user_name": "Daniel Gagnon",
+    "action": "test",
+    "category": "cnesst",
+    "details": "activity-charts",
+    "metadata": {
+      "env": "dev",
+      "original_action": "consultation"
+    },
+    "created_at": "2026-04-24T01:13:11.46682+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "c2ff64e0-dedd-4953-9417-070f9579b199",
+    "user_id": "20475c25-8247-4c0f-9dd8-fc8228937209",
+    "user_email": "daniel.gagnon@cliniqueinfirmiere.ca",
+    "user_name": "Daniel Gagnon",
+    "action": "test",
+    "category": "cnesst",
+    "details": "activity-charts",
+    "metadata": {
+      "env": "dev",
+      "original_action": "consultation"
+    },
+    "created_at": "2026-04-24T01:15:29.155526+00:00",
+    "user_role": "admin"
+  }
+]
