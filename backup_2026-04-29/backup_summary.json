@@ -1,0 +1,132 @@
+{
+  "date": "2026-04-29T05:00:05.551Z",
+  "tables": [
+    {
+      "table": "profiles",
+      "rows": 11,
+      "success": true
+    },
+    {
+      "table": "user_roles",
+      "rows": 24,
+      "success": true
+    },
+    {
+      "table": "Bd_Apprenant_data",
+      "rows": 0,
+      "success": true
+    },
+    {
+      "table": "videos",
+      "rows": 15,
+      "success": true
+    },
+    {
+      "table": "video_progress",
+      "rows": 2,
+      "success": true
+    },
+    {
+      "table": "quiz_scores",
+      "rows": 1,
+      "success": true
+    },
+    {
+      "table": "smt_general",
+      "rows": 5692,
+      "success": true
+    },
+    {
+      "table": "smt_hydro",
+      "rows": 996,
+      "success": true
+    },
+    {
+      "table": "donnees_secour_abitibi",
+      "rows": 7128,
+      "success": true
+    },
+    {
+      "table": "certificats_emis",
+      "rows": 8223,
+      "success": true
+    },
+    {
+      "table": "formations_calendrier",
+      "rows": 113,
+      "success": true
+    },
+    {
+      "table": "sollicitations_journal",
+      "rows": 450,
+      "success": true
+    },
+    {
+      "table": "formulaires_demande",
+      "rows": 0,
+      "success": true
+    },
+    {
+      "table": "activity_logs",
+      "rows": 0,
+      "success": true
+    },
+    {
+      "table": "cnesst_imports",
+      "rows": 1,
+      "success": true
+    },
+    {
+      "table": "public_resume_tokens",
+      "rows": 1,
+      "success": true
+    },
+    {
+      "table": "otp_rate_limits",
+      "rows": 0,
+      "success": true
+    }
+  ],
+  "storage": {
+    "certificate-templates": 1,
+    "formulaire-pdfs": 0,
+    "SMT_FICHIER_PJ": 5,
+    "videos": 50,
+    "certificats-pdf": 0,
+    "CarteSecour": 500
+  },
+  "binaryBackup": {
+    "bucket": "SMT_FICHIER_PJ",
+    "files": [
+      {
+        "name": "Formateurs.xlsx",
+        "success": true,
+        "size": 7976
+      },
+      {
+        "name": "Nouveau_ETA_MARS_2026.xlsx",
+        "success": true,
+        "size": 9261
+      },
+      {
+        "name": "Presence.xlsx",
+        "success": true,
+        "size": 8044
+      },
+      {
+        "name": "Registre_SMT_2026.xlsx",
+        "success": true,
+        "size": 108442
+      },
+      {
+        "name": "Salle.xlsx",
+        "success": true,
+        "size": 10367
+      }
+    ],
+    "successCount": 5
+  },
+  "totalRows": 22657,
+  "successCount": 17,
+  "failCount": 0
+}
