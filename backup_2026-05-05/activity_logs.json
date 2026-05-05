@@ -1,0 +1,2550 @@
+[
+  {
+    "id": "2dd57632-5495-416d-abb6-22ee46d85e42",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "connexion",
+    "category": "general",
+    "details": "Connexion admin: melissa.lemieux@cliniqueinfirmiere.ca",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T12:03:02.581073+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "0baeeac0-3dfb-43cf-b9e6-375d9be8b64a",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "consultation",
+    "category": "cnesst",
+    "details": "Visualiseur",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T12:03:05.434088+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "2981f7ca-9e8c-400d-bd81-261273fc5e50",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "visualiseur",
+    "category": "cnesst",
+    "details": "Visualiseur CNESST",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T12:03:05.473886+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "f32dbebd-a67e-4b50-a85c-b3ed70dc923b",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA000658719 — Parc-aventure Joannès",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T12:03:10.622621+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "8df568aa-398e-40e4-bb94-707e0cd8ca6f",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA608914390 — WSP CANADA INC. (Rouyn-Noranda)",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T12:03:23.379896+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "d0b7c7c3-3945-4fe6-899d-3f1a6e251215",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "connexion",
+    "category": "general",
+    "details": "Connexion admin: fanny.daigle@cliniqueinfirmiere.ca",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:25:30.777016+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "50f43b44-1888-45c3-b31b-b98de4e8e7bf",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "consultation",
+    "category": "cnesst",
+    "details": "Visualiseur",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:39:32.04821+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "0fb63e03-8429-4131-b889-0280737189d3",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "visualiseur",
+    "category": "cnesst",
+    "details": "Visualiseur CNESST",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:39:33.639783+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "e6c1e243-d325-4d53-be39-cf95b945f91d",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA000658719 — Parc-aventure Joannès",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:39:37.667775+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "4a005649-79d9-49e0-8b33-ad0ca95ee0e5",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611485124 — Chambre commerce industrie Abitibi-Ouest",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:39:43.549429+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "fa9574dd-ed59-4e15-bc1f-f3f20955e4f2",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA608048610 — Autobus DM Boréal Inc",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:40:03.753204+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "0487f3fb-b9bf-4f88-b720-08c137e5985d",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA613122726 — Raymond Chabot Grant Thornton (Abitibi/Nord du Qc)",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:40:06.671198+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "e161a294-149b-47d4-99ab-ddf4f5e12537",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA606098436 — Normex Métal",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:40:08.667105+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "44e9522d-fcf1-4963-9cf1-ab686f923ba9",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA607834086 — Double pizza",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:40:24.406392+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "d48ea3a1-e017-47a2-bef0-78020caa1fe2",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA609528252 — Syndicat des Professionnelles et Professionnels en Milieu Scolaire du Nord-Ouest",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:42:27.288203+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "9c9d7947-8cc8-4492-af48-306d28a75830",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "consultation",
+    "category": "cnesst",
+    "details": "Création des certificats (jpg)",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:48:55.580993+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "940eabe0-4e3d-4841-ae81-e86e917fdc31",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "Ajout sollicitation",
+    "category": "cnesst",
+    "details": "Syndicat des Professionnelles et Professionnels en Milieu Scolaire du Nord-Ouest — Appel le 2026-05-04",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:51:10.848902+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "f99148bf-5065-465d-8244-abce143eff93",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA609528252 — Syndicat des Professionnelles et Professionnels en Milieu Scolaire du Nord-Ouest",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:51:11.897641+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "4fd4d64b-e7d9-4aa3-8986-879a6a2a0efe",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA609528252 — Syndicat des Professionnelles et Professionnels en Milieu Scolaire du Nord-Ouest",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:51:17.302853+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "1dbd55d4-3637-4f3b-8782-0aa1be6a9e55",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA609528252 — Syndicat des Professionnelles et Professionnels en Milieu Scolaire du Nord-Ouest",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:51:28.917273+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "dbb4f9a3-da0b-464a-a6a7-4163f8c86730",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA601249596 — Canards illimités Canada",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:51:42.10347+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "b902bc0c-3e84-4c83-8176-092d5fcd9174",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA601249596 — Canards illimités Canada",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:52:46.863187+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "dae35908-2d5c-4411-bc93-04e3946ab3fa",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA605185931 — Notre-Dame-de-Fatima",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:53:04.847918+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "67d3cb82-e1d5-4217-81d3-12b8e4420ea2",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA607145080 — Télébec société en commandite",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:53:08.77114+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "5a89b6a4-7226-4204-ad86-79cdf871ceac",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA607144955 — Télébec société en commandite",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:53:10.504692+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "d9fa702c-1402-4dd8-a81d-54ea8769c46e",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA610566592 — Pétronor Inc",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:53:13.501529+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "91c2b7ac-5cf2-4642-aabd-9ed3129fc72e",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA001398151 — Municipalité De St-eugène-de-guigues",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:53:17.94096+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "c8056c90-4276-49e0-99e6-fd112b03b1e9",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA608587298 — Marc-André Manseau Notaire inc.",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:53:23.400862+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "d803556c-2a93-40b7-bb78-9fcaab40fa55",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611583679 — Deloitte S.E.N.C.R.L./s.r.l. (Val d'Or)",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:53:24.129446+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "34f9c64e-d2ef-44b8-9f88-8a1bc22b4c36",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611132951 — Val d'Or Comfort Inn",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:53:25.077919+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "86853dca-d9cf-4dfa-b8b4-fcda03f2ea10",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA609972850 — Jean-Claude Lapierre Construction Inc",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:53:25.386651+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "bf47e21a-8db2-4187-842e-60a4b13cf1b9",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA607809862 — Denison Environmental Services(selbaie)",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:53:28.779154+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "7378723a-52b0-401b-9d3c-cec0dcea8149",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "creation",
+    "category": "cnesst",
+    "details": "Certificats JPG (Excel import): 16 certificat(s) insérés en base et uploadés dans CarteSecour",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T13:54:15.436064+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "53cdcbe2-b475-40a8-98ff-770205066e72",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "connexion",
+    "category": "general",
+    "details": "Connexion admin: melissa.lemieux@cliniqueinfirmiere.ca",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:19:23.89364+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "98a0cb7a-01f7-42c5-806b-52792d7efa01",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "consultation",
+    "category": "cnesst",
+    "details": "Visualiseur",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:20:08.879833+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "c8b16399-e660-4a43-8485-6c1a237ba33f",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "visualiseur",
+    "category": "cnesst",
+    "details": "Visualiseur CNESST",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:20:10.160054+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "a66d7579-8c08-48e4-bc8d-fa9fa85b73ff",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA000658719 — Parc-aventure Joannès",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:20:13.974894+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "6ee7799f-4184-456b-a223-36e92c8d5cad",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611177644 — Z. S. Foresterie",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:21:17.270432+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "1dc9658c-e1bb-482a-b984-5abf2eb68239",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "creation",
+    "category": "cnesst",
+    "details": "Certificats JPG (Excel import): 17 certificat(s) insérés en base et uploadés dans CarteSecour",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:24:30.038392+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "3097e697-bbd9-4b46-88ce-66349f4cb935",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA610156204 — Beau Lieu et Fils inc",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:25:27.403067+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "515c16c7-2bf3-4181-a1c7-9cc71ed1ae7b",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA610156204 — Beau Lieu et Fils inc",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:28:19.723287+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "33f7c415-4166-4cdc-ac1a-05016f804c0b",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA000658719 — Parc-aventure Joannès",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:28:25.03495+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "11cf81e5-90cb-4aea-9336-b755a81d1a79",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611177644 — Z. S. Foresterie",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:28:29.285721+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "6eda8356-59bf-4526-a6e1-052c56f2aadf",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611177644 — Z. S. Foresterie",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:29:39.131245+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "aab8fb00-8593-480e-9ac5-e46dd791f318",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA000658719 — Parc-aventure Joannès",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:29:43.879812+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "32e57e40-9779-4f5f-9081-fc24bddcdcf6",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA613248814 — Entreprises Forestières L.p.l.",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:29:48.306426+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "6b547698-8d7b-47de-9d47-07dc317564c0",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA613248814 — Entreprises Forestières L.p.l.",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:30:19.011824+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "3cfba3ad-ba26-4663-a920-6549e5ff5291",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA000658719 — Parc-aventure Joannès",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:30:23.561752+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "b438ba7c-4b69-453c-8631-4b5a3a218f1a",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611485124 — Chambre commerce industrie Abitibi-Ouest",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:37:39.79545+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "17552653-442f-4bac-af6c-b762d15895a9",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "Ajout sollicitation",
+    "category": "cnesst",
+    "details": "Chambre commerce industrie Abitibi-Ouest — Appel le 2026-05-04",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:42:57.653453+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "b8cf4bce-2ce9-4b13-94e8-8d3297cfb556",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611485124 — Chambre commerce industrie Abitibi-Ouest",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:42:58.605639+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "46bfbe15-d185-47f4-ba2f-be39cfaf8dbe",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611485124 — Chambre commerce industrie Abitibi-Ouest",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:43:05.47978+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "6a8c1cd9-181e-47c8-abb6-87335020f49e",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA613248814 — Entreprises Forestières L.p.l.",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:43:05.544805+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "2b60ca6b-b0d5-4a24-bcd5-aaf78361f64b",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA608048610 — Autobus DM Boréal Inc",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:43:09.961739+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "546b8891-cb54-4223-96b4-e444ad391fb9",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611661193 — Foresterie R.H.",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:44:13.449523+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "18613eb1-df9d-420e-b6c7-1f784106ee37",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "Ajout sollicitation",
+    "category": "cnesst",
+    "details": "Autobus DM Boréal Inc — Courriel le 2026-05-04",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:45:22.863384+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "07b7f2f9-cbab-4dc9-af23-6ddd9253e7ed",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA608048610 — Autobus DM Boréal Inc",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:45:23.809504+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "7acf0caa-3d30-47c3-b222-87302ec69df5",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611661193 — Foresterie R.H.",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:45:24.692723+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "60abe79b-2ffe-4278-b22a-9d8d99ccd118",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611661193 — Foresterie R.H.",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:45:31.05933+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "fce9c39d-d4d5-4a1b-9633-5315b4a062e4",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA608048610 — Autobus DM Boréal Inc",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:45:31.340903+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "f50339e5-0e76-414e-9993-969822b50537",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA613122726 — Raymond Chabot Grant Thornton (Abitibi/Nord du Qc)",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:45:38.606426+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "4801da57-f46c-41ad-a0ff-0eaa35bd1da6",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA608048610 — Autobus DM Boréal Inc",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:45:43.098956+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "6bca922e-dfbc-455e-8848-41015986c1eb",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611661193 — Foresterie R.H.",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:45:56.093229+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "c28f0770-d6ae-45ed-86aa-6d20cb4054d9",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA608048610 — Autobus DM Boréal Inc",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:45:56.554896+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "2e877ade-0a4c-4982-ac3a-22d8de05e89f",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA613122726 — Raymond Chabot Grant Thornton (Abitibi/Nord du Qc)",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:46:10.651468+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "ae997ca9-45f8-4205-bc4e-97a7cd43ef20",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA606098436 — Normex Métal",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:46:13.666626+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "711a622e-0b35-4828-8079-7f596a0f9b17",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA607834086 — Double pizza",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:46:21.589913+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "7cf5a4c0-44ce-42f4-ac5e-9f94d8e6d15e",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA607153329 — Dollarama #33",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:46:44.264426+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "3902b408-638d-483e-a006-6bc309720334",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA610147509 — Promutuel Boréale, Société mutuelle d'assurance générale (La Sarre)",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:46:47.491887+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "4dc433b7-28fd-4a64-96fc-67eadbd9a5c0",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA608279870 — Magasins Hart inc (#27)",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:46:51.226754+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "db29b751-75c0-45dd-8b66-2f187915948e",
+    "user_id": null,
+    "user_email": "daniel.gagnon@cliniqueinfirmiere.ca",
+    "user_name": null,
+    "action": "tentative_suspecte",
+    "category": "security",
+    "details": "invalid_password — AdminLogin: Invalid login credentials",
+    "metadata": {
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+      "attempt_type": "invalid_password"
+    },
+    "created_at": "2026-05-04T14:47:31.131977+00:00",
+    "user_role": null
+  },
+  {
+    "id": "44b66ea0-a431-495a-adac-b980a437361c",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA612513654 — Scierie La Sarre",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:47:59.61597+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "b9e43d05-4916-42d2-85f1-bb374b17b5e2",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "Ajout sollicitation",
+    "category": "cnesst",
+    "details": "Magasins Hart inc (#27) — Appel le 2026-05-04",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:48:12.768463+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "ae113ba6-0a15-4850-adb1-44677459e8e1",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA608279870 — Magasins Hart inc (#27)",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:48:13.620924+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "18c38e1e-a10f-4a79-af57-57e4827fc6e2",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA612513654 — Scierie La Sarre",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:48:20.622354+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "3a6c4a63-0d9d-4ef8-8563-8eb6e18de32b",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA608279870 — Magasins Hart inc (#27)",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:48:20.753067+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "f3653c95-5f78-41c3-a8f8-1894a24f0e2a",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA608279870 — Magasins Hart inc (#27)",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:48:54.854653+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "e5597720-3126-4448-9909-48536853695e",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA612513654 — Scierie La Sarre",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:48:59.37942+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "5dc8f743-7517-4174-a7bf-5e8c4c8aa915",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA602804243 — Traction Lasarre # 160",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:49:00.138274+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "84a86df9-e587-4e8d-94bf-436df5c39849",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA607144955 — Télébec société en commandite",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:49:12.630557+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "f79f5ce6-5016-4f04-a6b8-478dfeaffc74",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA612963800 — Forêts Élites Exploits Ltée",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:49:15.254427+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "d635f0cf-461c-458b-93af-1903ab439cc2",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA612822785 — Groupe IO",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:49:16.648882+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "db48ba26-f694-4808-bfe3-d932c4287094",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA612513654 — Scierie La Sarre",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:50:25.950784+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "cf93b3a5-2a31-4faf-b156-341676cca44b",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA612822785 — Groupe IO",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:50:29.87616+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "a5337bad-3612-420d-9c93-e6e6768bf5af",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA608067055 — Les Jardins du Patrimoine inc.",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:50:42.152557+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "f77e9af1-0ec2-42f2-9c8d-faf585578a4d",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA602674507 — R L D Leclerc ltée",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:50:42.993593+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "0792a569-4d2f-4168-9e36-c6ea39f63dca",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA613051623 — Graphix Design Graphique",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:50:45.507541+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "7bd90052-c796-4893-b792-0a06944e2ded",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA613051623 — Graphix Design Graphique",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:52:11.116308+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "6df27d5e-0171-4928-840e-fe4f05bc88e5",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA602674507 — R L D Leclerc ltée",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:52:15.595174+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "b54c6ff1-81c0-4f7e-a6d7-9fdc35820b0c",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA001246949 — Proulx & Genesse Inc",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:53:02.589839+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "e59c228c-bcd4-484f-931a-fefaea4dfbd1",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611446676 — Pelletier nettoie tout d'Abitibi inc",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:55:30.560789+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "dd91239d-306d-4d92-9583-0ca39ecf7cae",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA001246949 — Proulx & Genesse Inc",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:55:31.84926+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "207a145a-6395-4833-920a-a71abc0bda55",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611446676 — Pelletier nettoie tout d'Abitibi inc",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:55:37.186277+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "3f99401f-aca1-4697-baed-65a8c8f104b6",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA608697286 — Camp d'été Les Cent Pas",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T14:59:04.688785+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "0010ed5d-c73a-444a-8437-0d1aa0693d40",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "Ajout sollicitation",
+    "category": "cnesst",
+    "details": "Camp d'été Les Cent Pas — Appel le 2026-05-04",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T15:00:49.921689+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "9734f958-d62f-46d5-99fa-e34ab5b1b21a",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA608697286 — Camp d'été Les Cent Pas",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T15:00:51.564738+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "515d59fb-4ae1-4250-b593-6bc7829017ff",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA608697286 — Camp d'été Les Cent Pas",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T15:00:57.765307+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "35439394-32e7-4c19-952b-d05c6924641b",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA001246949 — Proulx & Genesse Inc",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T15:00:57.775873+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "a7a2cdf2-8a21-474b-b721-467e03299608",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA608697286 — Camp d'été Les Cent Pas",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T15:01:05.083539+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "4404ad12-233b-438f-bbbc-9568df327a2b",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA001246949 — Proulx & Genesse Inc",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T15:01:09.486891+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "6510c2f3-9b41-4618-8bc9-23ff60ae105a",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611570353 — CYC, Cabinet de Services Financiers inc.",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T15:34:36.462437+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "d46eaaa2-0792-4d57-b075-3855445c1d1e",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611682036 — Boucherie du Brack",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T15:37:48.480196+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "65363f0e-0163-4d8f-bd6d-d2730ae9bf70",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "Ajout sollicitation",
+    "category": "cnesst",
+    "details": "Boucherie du Brack — Courriel le 2026-05-04",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T15:42:21.202334+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "5c58ee05-6774-4acd-ae23-4ad388ca2bfc",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611682036 — Boucherie du Brack",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T15:42:23.475634+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "84865088-a374-49e5-9f8a-aac26b5b5c30",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611682036 — Boucherie du Brack",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T15:42:28.595601+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "cb5c4e3d-f800-4993-8939-ebb7bf2273ef",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611682036 — Boucherie du Brack",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T15:42:29.685735+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "79ee986d-f3ca-4426-932e-1377be947277",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611682036 — Boucherie du Brack",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T15:43:44.163281+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "f0a72d14-b19b-4eb8-b4a9-84abfdbf6373",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611682036 — Boucherie du Brack",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T15:44:27.508493+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "2c383d65-d45a-46b0-bee4-79c6808bc5f2",
+    "user_id": null,
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": null,
+    "action": "tentative_suspecte",
+    "category": "security",
+    "details": "no_role — Connexion réussie mais aucun rôle assigné",
+    "metadata": {
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0",
+      "attempt_type": "no_role"
+    },
+    "created_at": "2026-05-04T16:01:14.852888+00:00",
+    "user_role": null
+  },
+  {
+    "id": "09f1b3a7-1aa8-4a55-9f7c-895994358c36",
+    "user_id": null,
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": null,
+    "action": "alerte_envoyee",
+    "category": "security",
+    "details": "Compte sans rôle a tenté de se connecter",
+    "metadata": {},
+    "created_at": "2026-05-04T16:01:15.463028+00:00",
+    "user_role": null
+  },
+  {
+    "id": "a8b14eca-b771-4747-8ce0-acf592f322ec",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "connexion",
+    "category": "general",
+    "details": "Connexion admin: melissa.lemieux@cliniqueinfirmiere.ca",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:00:05.60265+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "d4f77c64-1d15-40e1-8ba1-cb15b4f5eba0",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "consultation",
+    "category": "cnesst",
+    "details": "Visualiseur",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:00:13.39597+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "f1e89f95-ff7f-4fb5-88bb-0bd6b320900a",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "visualiseur",
+    "category": "cnesst",
+    "details": "Visualiseur CNESST",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:00:13.681975+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "07f1db61-2357-4484-827a-295127562227",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA000658719 — Parc-aventure Joannès",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:00:17.346679+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "d8589adb-4fe0-43ea-ae35-bafd1ee5efc6",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "consultation",
+    "category": "cnesst",
+    "details": "Visualiseur",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:06:58.646861+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "1e95d226-4a9b-47bc-91fd-37abe738fdcc",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "visualiseur",
+    "category": "cnesst",
+    "details": "Visualiseur CNESST",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:06:59.286196+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "2cb4e1a9-8fe2-4d22-a4aa-71b47b9eda27",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA000658719 — Parc-aventure Joannès",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:07:02.901032+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "e9ba145c-89a7-4855-8f27-14814d7fc97f",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611323727 — Forages M Rouillier inc.",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:07:25.2184+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "1a6ee701-ee80-4bc5-80ba-df41b80de9bc",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "Ajout sollicitation",
+    "category": "cnesst",
+    "details": "Forages M Rouillier inc. — Courriel le 2026-05-04",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:07:38.004798+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "d78df43f-836f-4f9e-8fee-627a9e45f1cd",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611323727 — Forages M Rouillier inc.",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:07:38.836194+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "58f6cb54-54e7-4f44-94ed-4ed8e5e43cad",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611323727 — Forages M Rouillier inc.",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:07:44.333929+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "c47d78f4-74a8-45fb-91f7-05509a44211a",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA611323727 — Forages M Rouillier inc.",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:10:13.039021+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "a4517882-4fd8-49cc-acdb-670b4a7ef9a6",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA603864159 — 0052 08 Val-D'Or",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:11:47.354899+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "7d0207d5-a243-4323-a9aa-34a29501d005",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "Ajout sollicitation",
+    "category": "cnesst",
+    "details": "0052 08 Val-D'Or — Courriel le 2026-05-04",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:12:28.656276+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "8c1aa029-9b40-437c-a5bb-548a29ce08b3",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA603864159 — 0052 08 Val-D'Or",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:12:31.087042+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "9a75d8ab-230a-489f-9873-aa816dc06fe9",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA603864159 — 0052 08 Val-D'Or",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:12:36.240947+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "f237a0f8-18d5-4113-937f-14b7f37d3fe9",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA603864159 — 0052 08 Val-D'Or",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:12:38.309369+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "468e4d5f-26fc-4687-86c2-286c50760161",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA603864159 — 0052 08 Val-D'Or",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:13:14.974851+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "b63c5522-6eb9-45e4-98b3-5fd147d6c190",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA603864159 — 0052 08 Val-D'Or",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:13:47.989106+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "754add7e-d595-4666-85e3-dd84adbaabfc",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "Ajout sollicitation",
+    "category": "cnesst",
+    "details": "0052 08 Val-D'Or — Courriel le 2026-05-04",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:14:31.477753+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "962df6ae-9014-457d-b141-c5e9c9ac70b7",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA603864159 — 0052 08 Val-D'Or",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:14:33.370969+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "2c10a5f5-d052-45f8-8acd-0484837f8599",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA603864159 — 0052 08 Val-D'Or",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:14:38.685994+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "3f9bab3b-6085-4972-a41e-3ab172efad87",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA603864159 — 0052 08 Val-D'Or",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:14:40.481385+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "37a3af9b-fa3c-4a7d-9357-4edaea6ef5ef",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA603864159 — 0052 08 Val-D'Or",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:15:49.360595+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "2da175a8-e2dd-4fb7-a0ad-8708e2ebf875",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "consultation",
+    "category": "cnesst",
+    "details": "Visualiseur",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:19:44.003897+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "596de2a3-8cbd-4e22-996e-c520ef6ffc8f",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "visualiseur",
+    "category": "cnesst",
+    "details": "Visualiseur CNESST",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:19:44.228258+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "552f763d-3f49-4e80-89a5-5581848427d6",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA000658719 — Parc-aventure Joannès",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:19:48.309863+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "9602a8f1-188c-4b80-8dde-8fa6df4df078",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA609619528 — 0052 08 La Sarre",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:19:57.57918+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "79cc083c-73ac-4b49-adb3-f5d34d9034b7",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA612918780 — Heaume ges. privée de patrimoine s.e.n.c.",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:26:41.836508+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "0db5dd91-1906-4ff6-ae6a-c397a185d5d7",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA612594656 — Alliance technologie",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:34:01.515174+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "528d2121-e5dd-4b54-9932-b83a15b3468b",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "consultation",
+    "category": "cnesst",
+    "details": "Visualiseur",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:35:48.185029+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "c5f1bfe8-e52e-4e33-99e3-4820d345ca9c",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "visualiseur",
+    "category": "cnesst",
+    "details": "Visualiseur CNESST",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:35:48.283402+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "c8a160bd-2fb9-448d-80ab-07ff97da2413",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA000658719 — Parc-aventure Joannès",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:35:52.958951+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "b8e319a3-90b9-4388-a82b-7377c4cd1cc7",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "visualiseur",
+    "category": "cnesst",
+    "details": "Visualiseur CNESST",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:36:31.647562+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "65a28ac4-4be1-4cb3-9020-4f00b31e7e53",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA000658719 — Parc-aventure Joannès",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:36:35.511088+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "9345058b-18a3-416c-aa20-f21c1a8c5ef5",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "consultation",
+    "category": "cnesst",
+    "details": "Visualiseur",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:38:25.529284+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "33659037-6b2a-481a-be93-caa035e14877",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "visualiseur",
+    "category": "cnesst",
+    "details": "Visualiseur CNESST",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:38:25.874123+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "71271b0b-f448-4872-a9bb-a9482a298bfa",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA000658719 — Parc-aventure Joannès",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:38:29.517528+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "0138a331-bdf8-4d1b-8e48-1bdee116377a",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA609619528 — 0052 08 La Sarre",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:38:36.966376+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "e6c2d2de-dd2f-46d4-87c2-a9f388929c84",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "consultation",
+    "category": "cnesst",
+    "details": "Documents",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:39:49.905996+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "3e9d470e-b210-48be-a9bd-8e84bca1ce37",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "consultation",
+    "category": "cnesst",
+    "details": "Calendrier",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:42:54.794654+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "2bfd2655-1a6f-4b3f-9b37-af9689e28f25",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "Ouverture fiche de formation",
+    "category": "cnesst",
+    "details": "2026-04-01 — Clinique infirmiere Nord-Ouest,  64 1ere avenue Ouest, Amos, Québec J9T 1T8",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:43:20.818982+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "06e48579-2e23-40fe-8ad3-c5f998bcfcbf",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "Ouverture feuille de présence (calendrier)",
+    "category": "cnesst",
+    "details": "2026-06-01 — Clinique Infirmiere Nord-Ouest 1731, 3e avenue Val-d'Or, Québec, J9P1W3",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:44:02.703183+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "87834346-938f-4242-b91a-5159c555cda8",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "Ouverture feuille de présence (calendrier)",
+    "category": "cnesst",
+    "details": "2026-06-08 — Motel Microtel, 1515, 3e Avenue, Val-d'Or, (Québec)  J9P 4N5",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:44:26.169621+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "02192871-a2c7-4ae1-9b6a-2cd7522eb713",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "Ouverture fiche de formation",
+    "category": "cnesst",
+    "details": "2026-06-08 — Motel Microtel, 1515, 3e Avenue, Val-d'Or, (Québec)  J9P 4N5",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:44:51.103785+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "69ac3240-fc72-4cd5-ae88-30cf32125816",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "Ouverture fiche de formation",
+    "category": "cnesst",
+    "details": "2026-06-08 — Clinique infirmiere Nord-Ouest,  64 1ere avenue Ouest, Amos, Québec J9T 1T8",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:45:07.365035+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "62db59c4-afed-4ac5-9c97-5f9ad4fe48a8",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "Ouverture feuille de présence (calendrier)",
+    "category": "cnesst",
+    "details": "2026-03-30 — Club Les amants du Bel Âge, 998, Blvd. Quévillon, Lebel-sur-Quévillon, Qc, J0Y 1X0",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T17:45:26.852057+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "bc1a8353-4341-4823-bac6-dd9f7ca17c50",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "visualiseur",
+    "category": "cnesst",
+    "details": "Visualiseur CNESST",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:05:40.286519+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "bf1bd4b7-ec7f-4615-937b-30663f8a22ce",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA000658719 — Parc-aventure Joannès",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:05:45.006868+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "1936ef89-700c-4085-8620-bedda995b6f0",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "connexion",
+    "category": "general",
+    "details": "Connexion admin: fanny.daigle@cliniqueinfirmiere.ca",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:27:38.35826+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "ba5ff18b-7d77-4bfd-887d-0e504dba6731",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "consultation",
+    "category": "cnesst",
+    "details": "Visualiseur",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:27:42.528501+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "5624e78b-27ab-4312-a044-15531c536790",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "visualiseur",
+    "category": "cnesst",
+    "details": "Visualiseur CNESST",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:27:43.618271+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "9f281c28-b4f3-4c74-bfb2-cddd3523bc21",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA000658719 — Parc-aventure Joannès",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:27:47.611038+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "fecdb0cb-d0bc-4d21-a509-64856c43b1d3",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA605610981 — Bureau de Services Québec de Rouyn-Noranda",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:27:56.031586+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "504ccf88-8c31-4569-bd8b-caa6fa7e9324",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA603859290 — Bureau de Services Québec de Val-d'Or",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:29:18.16544+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "9380147d-a25e-4717-8263-a3e081589ae1",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "visualiseur",
+    "category": "cnesst",
+    "details": "Visualiseur CNESST",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:33:52.14364+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "79ccf469-94fc-44a8-9117-e9a3dec0f8f1",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "user_email": "melissa.lemieux@cliniqueinfirmiere.ca",
+    "user_name": "Melissa Lemieux",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA000658719 — Parc-aventure Joannès",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:34:02.57925+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "045ad572-b06c-42b8-afc0-b05ea93080b2",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA605610981 — Bureau de Services Québec de Rouyn-Noranda",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:34:36.990168+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "a93b338b-5c47-4225-aca9-161e0d2fdb3f",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA601272961 — Moto Sport de la Capitale",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:45:30.56472+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "bf5b1466-bbbd-41f5-95af-d4fe4601c5fc",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA608080030 — Bibeau moto sport inc.",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:45:38.793101+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "3f06fa07-21e7-42f1-9f74-7c3b1c332157",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA000924860 — Bibeau Moto Sport Inc.(entrepôt)",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:45:52.367067+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "1597d281-f09c-4d1c-8d11-c023683511b1",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA606204507 — Ville de Rouyn-Noranda - Quartier de Montbeillard- Caserne 05",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:46:09.322103+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "ac5982c7-d164-4f39-a07d-9b7cefc2cdf0",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA606204516 — Ville de Rouyn-Noranda - Quartier de Mont-Brun",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:46:11.707323+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "f9c88312-9eae-48f1-a4b2-c82a90445bc1",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA610238019 — Fabrique paroisse St-Paul de Senneterre",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:46:12.21625+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "5df575f3-7d0d-4fa1-87b7-c2302f848069",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA612204596 — Centre de la petite enfance chez Caliméro",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:46:12.618757+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "608ae771-9dd0-4d8a-8cc1-d8ed6e8a839f",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA606732045 — Administration régionale Kativik - Kangiqsualujjuaq",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:46:12.986327+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "e1fd932d-f4f4-428f-b7aa-c891a776079b",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA600425530 — 2317-8056 Québec inc.",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:46:59.863194+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "c22cebc0-4345-4c97-a231-0050c372a357",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA610147297 — Promutuel Boréale, Société mutuelle d'assurance générale (Amos)",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:52:31.055285+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "9383de2d-e963-4dcc-8a35-9cce36226cbc",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA610147509 — Promutuel Boréale, Société mutuelle d'assurance générale (La Sarre)",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T18:52:35.713435+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "9fbc11f6-d102-4334-9857-f8db9241908c",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA604332963 — Bureau de Services Québec de Senneterre",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T19:28:05.711106+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "0859f60c-0453-475a-9c7b-e67f1ea324ff",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA604332963 — Bureau de Services Québec de Senneterre",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T19:44:14.091109+00:00",
+    "user_role": "admin"
+  },
+  {
+    "id": "48187d3c-58ff-4376-86b6-d4e75d05b9ed",
+    "user_id": "aa3d0afb-f752-4eff-a5e3-ea18c308deb8",
+    "user_email": "fanny.daigle@cliniqueinfirmiere.ca",
+    "user_name": "Fanny Daigle Bourdon",
+    "action": "entreprise vue",
+    "category": "cnesst",
+    "details": "ETA608611378 — CAFA",
+    "metadata": {
+      "env": "prod"
+    },
+    "created_at": "2026-05-04T19:47:13.082502+00:00",
+    "user_role": "admin"
+  }
+]
