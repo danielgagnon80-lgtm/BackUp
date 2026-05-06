@@ -1,0 +1,42 @@
+[
+  {
+    "id": "a97c675b-1465-434e-b0e4-c32579c654ba",
+    "user_id": "20475c25-8247-4c0f-9dd8-fc8228937209",
+    "video_title": "Accident Vasculaire Cérébrale",
+    "score": 3,
+    "total_questions": 3,
+    "completed_at": "2026-01-13T18:26:32.214+00:00",
+    "created_at": "2026-01-13T18:25:37.947299+00:00",
+    "learner_email": null
+  },
+  {
+    "id": "42bc60a8-6738-4ff9-b516-56af556ec446",
+    "user_id": null,
+    "video_title": "Accident Vasculaire Cérébrale",
+    "score": 3,
+    "total_questions": 3,
+    "completed_at": "2026-05-05T19:07:08.191+00:00",
+    "created_at": "2026-05-05T18:58:09.572764+00:00",
+    "learner_email": "daniel.gagnon80@gmail.com"
+  },
+  {
+    "id": "e9dabe03-4919-4b87-aaad-7d860245eb57",
+    "user_id": null,
+    "video_title": "Difficulté Respiratoire",
+    "score": 2,
+    "total_questions": 3,
+    "completed_at": "2026-05-05T19:09:13.277+00:00",
+    "created_at": "2026-05-05T19:09:13.340201+00:00",
+    "learner_email": "daniel.gagnon80@gmail.com"
+  },
+  {
+    "id": "36a3fbae-e03d-412f-aa8c-73c99f75aedc",
+    "user_id": null,
+    "video_title": "Réaction Allergique",
+    "score": 3,
+    "total_questions": 3,
+    "completed_at": "2026-05-05T22:56:34.21+00:00",
+    "created_at": "2026-05-05T22:56:34.294907+00:00",
+    "learner_email": "daniel.gagnon80@gmail.com"
+  }
+]
