@@ -1,6 +1,6 @@
 # Dernier backup
 
-- **Date:** 2026-05-05 01 h 00 min 05 s
-- **Dossier:** `backup_2026-05-05/`
+- **Date:** 2026-05-06 01 h 00 min 03 s
+- **Dossier:** `backup_2026-05-06/`
 - **Tables:** 17/17 réussies
-- **Total lignes:** 22996
+- **Total lignes:** 23252
