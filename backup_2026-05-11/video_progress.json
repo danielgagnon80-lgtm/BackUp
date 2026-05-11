@@ -1,0 +1,57 @@
+[
+  {
+    "id": "056769b9-3dca-4090-9210-f076f9f67d40",
+    "user_id": null,
+    "video_title": "Difficulté Respiratoire",
+    "completed": true,
+    "completed_at": "2026-05-05T19:09:13.695+00:00",
+    "created_at": "2026-05-05T19:07:35.028165+00:00",
+    "updated_at": "2026-05-05T19:09:13.764941+00:00",
+    "last_position": 0,
+    "learner_email": "daniel.gagnon80@gmail.com"
+  },
+  {
+    "id": "6c905e81-ddee-47f0-99f6-4d92d72d52f4",
+    "user_id": null,
+    "video_title": "Problème Médicaux",
+    "completed": false,
+    "completed_at": null,
+    "created_at": "2026-05-05T19:09:37.280122+00:00",
+    "updated_at": "2026-05-05T19:11:35.082841+00:00",
+    "last_position": 20,
+    "learner_email": "daniel.gagnon80@gmail.com"
+  },
+  {
+    "id": "767313a5-efbd-4c95-92f2-2e5e8116fee2",
+    "user_id": "88a18575-07c2-41b7-872c-dd801e063470",
+    "video_title": "Formation Secourisme En Milieux De Travail",
+    "completed": false,
+    "completed_at": null,
+    "created_at": "2026-02-19T15:15:18.620405+00:00",
+    "updated_at": "2026-02-19T15:15:28.20349+00:00",
+    "last_position": 12,
+    "learner_email": null
+  },
+  {
+    "id": "b3479a45-5824-46bb-8e59-e5e6c0aa38d8",
+    "user_id": null,
+    "video_title": "Accident Vasculaire Cérébrale",
+    "completed": true,
+    "completed_at": "2026-05-05T19:07:08.624+00:00",
+    "created_at": "2026-05-05T18:55:28.828182+00:00",
+    "updated_at": "2026-05-05T19:07:08.70279+00:00",
+    "last_position": 0,
+    "learner_email": "daniel.gagnon80@gmail.com"
+  },
+  {
+    "id": "b5e2ff8f-ee80-4a55-bb2b-73267957dd14",
+    "user_id": null,
+    "video_title": "Réaction Allergique",
+    "completed": true,
+    "completed_at": "2026-05-05T22:56:34.757+00:00",
+    "created_at": "2026-05-05T19:13:04.128756+00:00",
+    "updated_at": "2026-05-05T22:56:34.83958+00:00",
+    "last_position": 0,
+    "learner_email": "daniel.gagnon80@gmail.com"
+  }
+]
