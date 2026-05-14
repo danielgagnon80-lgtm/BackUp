@@ -1,0 +1,177 @@
+{
+  "date": "2026-05-14T05:00:07.720Z",
+  "tables": [
+    {
+      "table": "profiles",
+      "rows": 11,
+      "success": true
+    },
+    {
+      "table": "user_roles",
+      "rows": 24,
+      "success": true
+    },
+    {
+      "table": "Bd_Apprenant_data",
+      "rows": 1,
+      "success": true
+    },
+    {
+      "table": "videos",
+      "rows": 15,
+      "success": true
+    },
+    {
+      "table": "video_progress",
+      "rows": 5,
+      "success": true
+    },
+    {
+      "table": "quiz_scores",
+      "rows": 3,
+      "success": true
+    },
+    {
+      "table": "smt_general",
+      "rows": 5803,
+      "success": true
+    },
+    {
+      "table": "smt_hydro",
+      "rows": 1019,
+      "success": true
+    },
+    {
+      "table": "donnees_secour_abitibi",
+      "rows": 7129,
+      "success": true
+    },
+    {
+      "table": "certificats_emis",
+      "rows": 8357,
+      "success": true
+    },
+    {
+      "table": "formations_calendrier",
+      "rows": 0,
+      "success": true
+    },
+    {
+      "table": "sollicitations_journal",
+      "rows": 746,
+      "success": true
+    },
+    {
+      "table": "formulaires_demande",
+      "rows": 0,
+      "success": true
+    },
+    {
+      "table": "activity_logs",
+      "rows": 1536,
+      "success": true
+    },
+    {
+      "table": "cnesst_imports",
+      "rows": 1,
+      "success": true
+    },
+    {
+      "table": "public_resume_tokens",
+      "rows": 1,
+      "success": true
+    },
+    {
+      "table": "otp_rate_limits",
+      "rows": 0,
+      "success": true
+    }
+  ],
+  "storage": {
+    "certificate-templates": 1,
+    "formulaire-pdfs": 0,
+    "SMT_FICHIER_PJ": 14,
+    "videos": 50,
+    "certificats-pdf": 0,
+    "CarteSecour": 500
+  },
+  "binaryBackup": {
+    "bucket": "SMT_FICHIER_PJ",
+    "files": [
+      {
+        "name": "ETA603041556_FDF---Refuge-Jeunesse-Malartic.pdf",
+        "success": true,
+        "size": 837032
+      },
+      {
+        "name": "ETA608622981_FDF--David-Boyer.pdf",
+        "success": true,
+        "size": 890479
+      },
+      {
+        "name": "ETA609031314_FDF---Forage-Orbit-Garant.pdf",
+        "success": true,
+        "size": 828802
+      },
+      {
+        "name": "ETA609606845_FDF---Caisse-Desjardins-du-Temiscamingue.pdf",
+        "success": true,
+        "size": 833482
+      },
+      {
+        "name": "ETA611707000_FDF--David-Boyer.pdf",
+        "success": true,
+        "size": 890479
+      },
+      {
+        "name": "ETA611711031_FDF---Transport-CJFS.pdf",
+        "success": true,
+        "size": 1010531
+      },
+      {
+        "name": "ETA612197416_FDF--Horizon-North-Camps--Catering-P..pdf",
+        "success": true,
+        "size": 879228
+      },
+      {
+        "name": "ETA612734461_FDF---Abitibi-Geophysique-1.pdf",
+        "success": true,
+        "size": 839177
+      },
+      {
+        "name": "ETA612865186_FDF---Probe-Gold.pdf",
+        "success": true,
+        "size": 1013044
+      },
+      {
+        "name": "Formateurs.xlsx",
+        "success": true,
+        "size": 7976
+      },
+      {
+        "name": "Nouveau_ETA_MARS_2026.xlsx",
+        "success": true,
+        "size": 9261
+      },
+      {
+        "name": "Presence.xlsx",
+        "success": true,
+        "size": 8044
+      },
+      {
+        "name": "Registre_SMT_2026.xlsx",
+        "success": true,
+        "size": 2656111
+      },
+      {
+        "name": "Salle.xlsx",
+        "success": true,
+        "size": 10460
+      }
+    ],
+    "successCount": 14
+  },
+  "totalRows": 24651,
+  "successCount": 17,
+  "failCount": 0
+}
