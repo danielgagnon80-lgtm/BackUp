@@ -1,0 +1,1127 @@
+[
+  {
+    "id": "f8940d2c-5a64-4293-b091-2f1960bc1305",
+    "title": "Hypothermie",
+    "description": "Vidéo de formation - Hypothermie",
+    "duration": "9:44 minutes",
+    "video_path": "1762918388026_Hypothermie.mp4",
+    "thumbnail_path": "thumbnail-1762916101540.png",
+    "quiz_data": [
+      {
+        "options": [
+          "En dessous de 37°C",
+          "En dessous de 35°C",
+          "En dessous de 30°C",
+          "En dessous de 40°C"
+        ],
+        "question": "À partir de quelle température corporelle parle-t-on d'hypothermie?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Transpiration excessive",
+          "Frissons, peau froide, confusion",
+          "Fièvre élevée",
+          "Rougeur de la peau"
+        ],
+        "question": "Quels sont les premiers signes d'hypothermie?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Bain chaud immédiat",
+          "Réchauffement progressif avec couvertures",
+          "Friction vigoureuse de la peau",
+          "Donner de l'alcool"
+        ],
+        "question": "Comment réchauffer une personne en hypothermie?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "L'isoler du froid",
+          "La réchauffer trop rapidement",
+          "Appeler les secours",
+          "La couvrir"
+        ],
+        "question": "Que ne faut-il jamais faire avec une victime en hypothermie?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Alcool",
+          "Boisson chaude sucrée non alcoolisée",
+          "Boisson glacée",
+          "Café noir"
+        ],
+        "question": "Quelle boisson peut-on donner à une personne consciente en hypothermie légère?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Les laisser",
+          "Les enlever et remplacer par des vêtements secs",
+          "Les sécher sur la personne",
+          "Ajouter des vêtements par-dessus"
+        ],
+        "question": "Que faire avec les vêtements mouillés d'une victime en hypothermie?",
+        "correctAnswer": 1
+      }
+    ],
+    "display_order": 7,
+    "is_active": true,
+    "created_at": "2025-11-12T01:44:56.981714+00:00",
+    "updated_at": "2025-11-13T16:40:03.726772+00:00",
+    "created_by": null
+  },
+  {
+    "id": "47b9c777-c20a-43bb-af44-d611027e4c7c",
+    "title": "Évaluation De La Situation",
+    "description": "Vidéo de formation - Évaluation De La Situation",
+    "duration": "11:52 minutes",
+    "video_path": "1762918260564_valuation_De_La_Situation.mp4",
+    "thumbnail_path": "thumbnail-1762916045905.png",
+    "quiz_data": [
+      {
+        "options": [
+          "Déplacer la victime",
+          "Assurer la sécurité des lieux",
+          "Appeler les secours",
+          "Commencer la RCR"
+        ],
+        "question": "Quelle est la première étape lors de l'évaluation d'une situation d'urgence?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Protéger, Alerter, Secourir",
+          "Parler, Agir, Sauver",
+          "Paniquer, Attendre, Sortir",
+          "Prévenir, Analyser, Soigner"
+        ],
+        "question": "Que signifie l'acronyme PAS en premiers secours?",
+        "correctAnswer": 0
+      },
+      {
+        "options": [
+          "La secouer vigoureusement",
+          "Lui parler et la stimuler doucement",
+          "Lui jeter de l'eau",
+          "Attendre qu'elle se réveille"
+        ],
+        "question": "Comment évaluer l'état de conscience d'une victime?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "La présence de fractures",
+          "Les voies respiratoires et la respiration",
+          "La température corporelle",
+          "Les réflexes"
+        ],
+        "question": "Que vérifier en priorité chez une victime inconsciente?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Un minimum de 3",
+          "Au moins un, mais plus c'est mieux",
+          "Exactement 2",
+          "Aucun, on doit agir seul"
+        ],
+        "question": "Combien de témoins faut-il pour évaluer correctement une situation?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Intervenir quand même",
+          "Ne pas s'approcher et appeler les secours",
+          "Attendre 10 minutes",
+          "Déplacer tout le monde"
+        ],
+        "question": "Que faire si la scène n'est pas sécuritaire?",
+        "correctAnswer": 1
+      }
+    ],
+    "display_order": 4,
+    "is_active": true,
+    "created_at": "2025-11-12T01:44:15.864588+00:00",
+    "updated_at": "2025-11-13T16:39:39.200263+00:00",
+    "created_by": null
+  },
+  {
+    "id": "debd54b0-2a91-4a81-972f-95257aaa8e63",
+    "title": "Formation Secourisme En Milieux De Travail",
+    "description": "Vidéo de formation - Formation Secourisme En Milieux De Travail",
+    "duration": "6:22 minutes",
+    "video_path": "1762918308031_Formation_Secourisme_En_Milieux_De_Travail.mp4",
+    "thumbnail_path": "thumbnail-1762916072487.png",
+    "quiz_data": [
+      {
+        "options": [
+          "Tous les 5 ans",
+          "Tous les 3 ans",
+          "Tous les ans",
+          "Une seule fois dans sa vie"
+        ],
+        "question": "Quelle est la fréquence recommandée pour renouveler sa formation en secourisme?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Remplacer les ambulanciers",
+          "Donner les premiers soins en attendant les secours",
+          "Diagnostiquer les maladies",
+          "Prescrire des médicaments"
+        ],
+        "question": "Quel est le rôle principal d'un secouriste en milieu de travail?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Aucun, ce n'est pas obligatoire",
+          "Selon le nombre d'employés et les risques",
+          "Exactement 1",
+          "Au moins 5"
+        ],
+        "question": "Combien de secouristes faut-il par quart de travail selon la loi?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Uniquement des pansements",
+          "Pansements, compresses, gants, masque de RCR, etc.",
+          "Des médicaments seulement",
+          "Rien, elle est vide"
+        ],
+        "question": "Que contient une trousse de premiers soins de base?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Dans le bureau du directeur",
+          "Dans un endroit accessible et identifié",
+          "Dans un coffre-fort",
+          "À l'extérieur du bâtiment"
+        ],
+        "question": "Où doit être située la trousse de premiers soins?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "N'importe qui",
+          "Seulement les secouristes formés et désignés",
+          "Seulement les médecins",
+          "Seulement le patron"
+        ],
+        "question": "Qui peut administrer les premiers soins en milieu de travail?",
+        "correctAnswer": 1
+      }
+    ],
+    "display_order": 0,
+    "is_active": true,
+    "created_at": "2025-11-12T01:44:29.750373+00:00",
+    "updated_at": "2025-11-13T16:02:16.996311+00:00",
+    "created_by": null
+  },
+  {
+    "id": "10ecaf82-0ba5-429a-b596-c4e11fa2a3cf",
+    "title": "Problème Médicaux",
+    "description": "Vidéo de formation - Problème Médicaux",
+    "duration": "5:12 minutes",
+    "video_path": "1762918516282_Problme_Mdicaux.mp4",
+    "thumbnail_path": "thumbnail-1762916168831.png",
+    "quiz_data": [
+      {
+        "options": [
+          "Une maladie chronique",
+          "Une condition médicale apparaissant brutalement (malaise, crise, perte de conscience)",
+          "Un rendez-vous médical manqué",
+          "Une infection légère"
+        ],
+        "question": "Qu'est-ce qu'un problème médical soudain?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Fièvre et toux",
+          "Faiblesse d'un côté, trouble de la parole, confusion, perte d'équilibre",
+          "Douleur abdominale",
+          "Éruption cutanée"
+        ],
+        "question": "Quels sont les signes d'un AVC (accident vasculaire cérébral)?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Douleur thoracique, essoufflement, nausées, sueurs, douleur au bras",
+          "Mal de gorge",
+          "Démangeaisons",
+          "Éternuements"
+        ],
+        "question": "Comment reconnaître une crise cardiaque?",
+        "correctAnswer": 0
+      },
+      {
+        "options": [
+          "Tenir la personne fermement",
+          "Protéger la tête, éloigner les objets dangereux, ne rien mettre dans la bouche",
+          "Verser de l'eau sur le visage",
+          "Faire une réanimation immédiatement"
+        ],
+        "question": "Que faire devant une personne en crise d'épilepsie?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Debout",
+          "Position confortable, généralement semi-assise si difficultés respiratoires",
+          "À plat ventre",
+          "Tête en bas"
+        ],
+        "question": "Quelle est la position d'attente pour une personne consciente ayant un malaise?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Ce n'est pas nécessaire",
+          "Le temps est crucial, plus l'intervention est rapide, meilleures sont les chances de survie",
+          "Pour obtenir des conseils seulement",
+          "Uniquement si la personne est inconsciente"
+        ],
+        "question": "Pourquoi faut-il appeler le 911 rapidement lors d'un problème médical grave?",
+        "correctAnswer": 1
+      }
+    ],
+    "display_order": 14,
+    "is_active": true,
+    "created_at": "2025-11-12T01:45:19.130082+00:00",
+    "updated_at": "2025-11-13T16:40:59.880176+00:00",
+    "created_by": null
+  },
+  {
+    "id": "8c6c29b5-ab8a-4d6e-be56-d585423b24a1",
+    "title": "Trousse De Premiers Soins",
+    "description": "Vidéo de formation - Trousse De Premiers Soins",
+    "duration": "15:01 minutes",
+    "video_path": "1762918571048_Trousse_De_Premiers_Soins.mp4",
+    "thumbnail_path": "thumbnail-1762916201407.png",
+    "quiz_data": [
+      {
+        "options": [
+          "Pour décorer le bureau",
+          "Pour intervenir rapidement en cas d'urgence",
+          "Ce n'est pas important",
+          "Seulement pour les hôpitaux"
+        ],
+        "question": "Pourquoi est-il important d'avoir une trousse de premiers soins?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Cachée dans un placard fermé à clé",
+          "Dans un endroit accessible, visible et connu de tous",
+          "Dans le bureau du directeur seulement",
+          "À l'extérieur du bâtiment"
+        ],
+        "question": "Où doit être placée la trousse de premiers soins?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Seulement des médicaments",
+          "Pansements, compresses, bandages, gants, désinfectant, ciseaux",
+          "Des outils de réparation",
+          "De la nourriture"
+        ],
+        "question": "Que doit contenir une trousse de premiers soins de base?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Jamais",
+          "Régulièrement (tous les 6 mois minimum) pour vérifier les dates de péremption",
+          "Une fois tous les 10 ans",
+          "Seulement après une urgence"
+        ],
+        "question": "À quelle fréquence doit-on vérifier la trousse de premiers soins?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Non, ce n'est pas nécessaire",
+          "Oui, pour se protéger des liquides biologiques",
+          "Seulement en hiver",
+          "Seulement pour les professionnels"
+        ],
+        "question": "Doit-on avoir des gants jetables dans la trousse?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Le garder indéfiniment",
+          "Le remplacer immédiatement pour maintenir la trousse complète",
+          "Le donner à quelqu'un d'autre",
+          "Le réutiliser quand même"
+        ],
+        "question": "Que faire avec le matériel périmé ou utilisé?",
+        "correctAnswer": 1
+      }
+    ],
+    "display_order": 15,
+    "is_active": true,
+    "created_at": "2025-11-12T01:45:29.261279+00:00",
+    "updated_at": "2025-11-12T03:36:21.795683+00:00",
+    "created_by": null
+  },
+  {
+    "id": "75f8049e-6833-4515-8fb3-86694eda0db5",
+    "title": "Difficulté Respiratoire",
+    "description": "Vidéo de formation - Difficulté Respiratoire",
+    "duration": "2:51 minutes",
+    "video_path": "1762918246890_Difficult_Respiratoire.mp4",
+    "thumbnail_path": "thumbnail-1762915874552.png",
+    "quiz_data": [
+      {
+        "options": [
+          "Respiration normale et calme",
+          "Essoufflement, respiration sifflante, lèvres bleutées",
+          "Toux légère",
+          "Éternuements fréquents"
+        ],
+        "question": "Quels sont les signes d'une détresse respiratoire?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Couchée à plat sur le dos",
+          "Position semi-assise ou assise",
+          "Sur le ventre",
+          "Tête en bas"
+        ],
+        "question": "Quelle position adopter pour une personne en difficulté respiratoire?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "L'allonger immédiatement",
+          "L'aider à utiliser son inhalateur",
+          "Lui donner de l'eau",
+          "La forcer à respirer profondément"
+        ],
+        "question": "Que faire si une personne asthmatique a une crise?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "La personne peut tousser et parler",
+          "La personne ne peut ni parler ni tousser",
+          "La personne ronfle",
+          "La personne respire normalement"
+        ],
+        "question": "Comment reconnaître une obstruction partielle des voies respiratoires?",
+        "correctAnswer": 0
+      },
+      {
+        "options": [
+          "Tapes dans le dos et compressions abdominales (Heimlich)",
+          "Donner à boire",
+          "Allonger la personne",
+          "Attendre que ça passe"
+        ],
+        "question": "Que faire en cas d'obstruction complète des voies respiratoires?",
+        "correctAnswer": 0
+      },
+      {
+        "options": [
+          "Seulement si la personne perd connaissance",
+          "Immédiatement si la difficulté est sévère ou ne s'améliore pas",
+          "Après 30 minutes",
+          "Jamais, ce n'est pas grave"
+        ],
+        "question": "Quand faut-il appeler les secours pour une difficulté respiratoire?",
+        "correctAnswer": 1
+      }
+    ],
+    "display_order": 6,
+    "is_active": true,
+    "created_at": "2025-11-12T01:44:09.52244+00:00",
+    "updated_at": "2025-11-13T16:40:03.729157+00:00",
+    "created_by": null
+  },
+  {
+    "id": "df1fab6e-e362-46e6-8ced-ec10b169d118",
+    "title": "Problèmes traumatiques",
+    "description": "Vidéo de formation - Problèmes traumatiques",
+    "duration": "29:30 minutes",
+    "video_path": "1762918218471_Blessures_Aux_Yeux.mp4",
+    "thumbnail_path": "thumbnail-1762915858257.png",
+    "quiz_data": [
+      {
+        "options": [
+          "Frotter l'œil vigoureusement",
+          "Ne jamais frotter, rincer à l'eau claire",
+          "Retirer l'objet avec les doigts",
+          "Mettre un bandage serré"
+        ],
+        "question": "Que faire en cas de corps étranger dans l'œil?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Avec de l'eau tiède pendant 5 minutes",
+          "Avec de l'eau froide pendant au moins 15 minutes",
+          "Avec du lait",
+          "Avec une solution saline uniquement"
+        ],
+        "question": "Comment rincer un œil exposé à un produit chimique?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Le retirer immédiatement",
+          "Ne pas le retirer, stabiliser et appeler les secours",
+          "Pousser l'objet plus profondément",
+          "Mettre un collyre"
+        ],
+        "question": "Que faire si un objet est planté dans l'œil?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Debout",
+          "Couchée sur le côté blessé",
+          "Semi-assise ou couchée sur le dos",
+          "Tête en bas"
+        ],
+        "question": "Quelle est la bonne position pour une victime avec blessure à l'œil?",
+        "correctAnswer": 2
+      },
+      {
+        "options": [
+          "Non, seulement l'œil blessé",
+          "Oui, pour limiter les mouvements oculaires",
+          "Seulement si c'est une brûlure",
+          "Jamais"
+        ],
+        "question": "Faut-il couvrir les deux yeux en cas de blessure à un œil?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Appliquer de la chaleur",
+          "Appliquer de la glace ou une compresse froide",
+          "Masser doucement",
+          "Ne rien faire"
+        ],
+        "question": "Que faire en cas d'œil au beurre noir (ecchymose)?",
+        "correctAnswer": 1
+      }
+    ],
+    "display_order": 12,
+    "is_active": true,
+    "created_at": "2025-11-12T01:44:07.619548+00:00",
+    "updated_at": "2025-11-13T16:41:04.228587+00:00",
+    "created_by": null
+  },
+  {
+    "id": "4d2a4463-96f5-4a9f-a167-a9a4e9e701bb",
+    "title": "Problèmes Diabétique",
+    "description": "Vidéo de formation - Problème Diabétique",
+    "duration": "9:20 minutes",
+    "video_path": "1762918493348_Problme_Diabtique.mp4",
+    "thumbnail_path": "thumbnail-1762916155348.png",
+    "quiz_data": [
+      {
+        "options": [
+          "Hypoglycémie (manque de sucre) et hyperglycémie (excès de sucre)",
+          "Diabète de type A et B",
+          "Diabète aigu et chronique",
+          "Diabète léger et sévère"
+        ],
+        "question": "Quels sont les deux types principaux de problème diabétique?",
+        "correctAnswer": 0
+      },
+      {
+        "options": [
+          "Soif intense, urines fréquentes",
+          "Tremblements, sueurs, confusion, faiblesse",
+          "Peau sèche, haleine fruitée",
+          "Douleur thoracique"
+        ],
+        "question": "Quels sont les signes d'une hypoglycémie?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "De l'insuline",
+          "Du sucre rapide (jus, bonbons, glucose)",
+          "De l'eau seulement",
+          "Rien, appeler le 911"
+        ],
+        "question": "Que donner à une personne consciente en hypoglycémie?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Tremblements et sueurs",
+          "Soif intense, urines fréquentes, peau sèche, haleine fruitée",
+          "Peau froide et moite",
+          "Convulsions"
+        ],
+        "question": "Quels sont les signes d'une hyperglycémie?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Oui, c'est recommandé",
+          "Non, seul un professionnel de santé peut l'administrer",
+          "Oui, si on sait comment faire",
+          "Oui, mais seulement la moitié de la dose"
+        ],
+        "question": "Peut-on donner de l'insuline à une personne en hyperglycémie?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Lui donner du sucre par la bouche",
+          "Appeler le 911, surveiller respiration, position latérale de sécurité",
+          "Lui injecter de l'insuline",
+          "Attendre qu'elle se réveille"
+        ],
+        "question": "Que faire si une personne diabétique est inconsciente?",
+        "correctAnswer": 1
+      }
+    ],
+    "display_order": 10,
+    "is_active": true,
+    "created_at": "2025-11-12T01:45:15.637004+00:00",
+    "updated_at": "2025-11-13T16:40:47.651418+00:00",
+    "created_by": null
+  },
+  {
+    "id": "7515c5ff-5fe4-43af-8662-0843d4a20511",
+    "title": "Réaction Allergique",
+    "description": "Vidéo de formation - Réaction Allergique",
+    "duration": "6:10 minutes",
+    "video_path": "1762918542629_Raction_Allergique.mp4",
+    "thumbnail_path": "thumbnail-1762916184384.png",
+    "quiz_data": [
+      {
+        "options": [
+          "Une infection virale",
+          "Une réponse excessive du système immunitaire à une substance",
+          "Une maladie génétique",
+          "Un empoisonnement"
+        ],
+        "question": "Qu'est-ce qu'une réaction allergique?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Aliments, piqûres d'insectes, médicaments, latex",
+          "L'air pur",
+          "L'eau potable",
+          "Le repos"
+        ],
+        "question": "Quels sont les allergènes les plus courants?",
+        "correctAnswer": 0
+      },
+      {
+        "options": [
+          "Une allergie légère",
+          "Une réaction allergique grave et potentiellement mortelle",
+          "Un coup électrique",
+          "Un malaise léger"
+        ],
+        "question": "Qu'est-ce qu'un choc anaphylactique?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Légers éternuements",
+          "Difficulté respiratoire, gonflement du visage, urticaire généralisée, chute de tension",
+          "Fatigue légère",
+          "Mal de tête modéré"
+        ],
+        "question": "Quels sont les signes d'un choc anaphylactique?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Un thermomètre",
+          "Un dispositif d'injection d'urgence pour traiter le choc anaphylactique",
+          "Un désinfectant",
+          "Un pansement spécial"
+        ],
+        "question": "Qu'est-ce qu'un auto-injecteur d'épinéphrine (EpiPen)?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Attendre que ça passe",
+          "Appeler le 911 immédiatement, utiliser l'EpiPen si disponible, surveiller la respiration",
+          "Donner à boire",
+          "Faire marcher la personne"
+        ],
+        "question": "Que faire si une personne présente un choc anaphylactique?",
+        "correctAnswer": 1
+      }
+    ],
+    "display_order": 11,
+    "is_active": true,
+    "created_at": "2025-11-12T01:45:22.676425+00:00",
+    "updated_at": "2025-11-13T16:41:04.250101+00:00",
+    "created_by": null
+  },
+  {
+    "id": "02133c1d-a99f-417b-ac9e-96f8c1d28591",
+    "title": "Intoxication",
+    "description": "Vidéo de formation - Intoxication",
+    "duration": "14:51 minutes",
+    "video_path": "1762918405555_Intoxication.mp4",
+    "thumbnail_path": "thumbnail-1762916113535.png",
+    "quiz_data": [
+      {
+        "options": [
+          "Ingestion, inhalation, absorption cutanée, injection",
+          "Seulement par ingestion",
+          "Uniquement par contact avec la peau",
+          "Par les yeux seulement"
+        ],
+        "question": "Quels sont les principaux types d'intoxication en milieu de travail?",
+        "correctAnswer": 0
+      },
+      {
+        "options": [
+          "Faire vomir la victime",
+          "Éloigner la victime de la source toxique et aérer",
+          "Donner de l'eau à boire",
+          "Appliquer une compresse froide"
+        ],
+        "question": "Quel est le premier geste en cas d'intoxication par inhalation?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Oui, toujours",
+          "Non, jamais sans avis médical",
+          "Seulement si elle est consciente",
+          "Uniquement pour les intoxications alimentaires"
+        ],
+        "question": "Faut-il faire vomir une personne intoxiquée par ingestion?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Rien de particulier",
+          "Le contenant du produit ou l'étiquette",
+          "Seulement le nom de la victime",
+          "Une photo de la victime"
+        ],
+        "question": "Que doit-on apporter au centre antipoison ou à l'hôpital?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "911",
+          "1-800-463-5060",
+          "811",
+          "514-123-4567"
+        ],
+        "question": "Quel est le numéro du centre antipoison du Québec?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Laisser sécher",
+          "Rincer abondamment à l'eau pendant au moins 15 minutes",
+          "Frotter avec un linge sec",
+          "Appliquer une crème"
+        ],
+        "question": "En cas d'intoxication par contact cutané, que faire?",
+        "correctAnswer": 1
+      }
+    ],
+    "display_order": 8,
+    "is_active": true,
+    "created_at": "2025-11-12T01:45:03.131222+00:00",
+    "updated_at": "2025-11-13T16:40:14.277463+00:00",
+    "created_by": null
+  },
+  {
+    "id": "2387a585-baa0-47a4-8fb6-bb4abf71f880",
+    "title": "Problèmes traumatiques - partie 2",
+    "description": "Vidéo de formation - Problèmes traumatiques - partie 2",
+    "duration": "59:18 minutes",
+    "video_path": "1762918357576_Hmorragie.mp4",
+    "thumbnail_path": "thumbnail-1762916084563.png",
+    "quiz_data": [
+      {
+        "options": [
+          "Appliquer un garrot immédiatement",
+          "Comprimer directement la plaie avec un tissu propre",
+          "Nettoyer la plaie",
+          "Donner à boire"
+        ],
+        "question": "Quelle est la première action en cas d'hémorragie externe?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Sang qui coule lentement et de couleur foncée",
+          "Sang rouge vif qui jaillit par jets",
+          "Sang qui ne coule pas",
+          "Sang noir"
+        ],
+        "question": "Comment reconnaître une hémorragie artérielle?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "L'enlever et le remplacer",
+          "Ajouter un pansement par-dessus sans enlever le premier",
+          "Arrêter la compression",
+          "Laver la plaie"
+        ],
+        "question": "Que faire si le pansement est imbibé de sang?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Toujours en premier",
+          "En dernier recours si compression directe inefficace",
+          "Jamais",
+          "Pour toute coupure"
+        ],
+        "question": "Quand utiliser un garrot?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Debout",
+          "Allongée avec jambes surélevées si possible",
+          "Assise",
+          "Sur le ventre"
+        ],
+        "question": "Quelle position pour une personne en hémorragie externe?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Donner à manger",
+          "Allonger la victime et appeler les secours immédiatement",
+          "La faire marcher",
+          "Attendre 24 heures"
+        ],
+        "question": "Que faire en cas d'hémorragie interne suspectée?",
+        "correctAnswer": 1
+      }
+    ],
+    "display_order": 13,
+    "is_active": true,
+    "created_at": "2025-11-12T01:44:51.710969+00:00",
+    "updated_at": "2025-11-13T18:17:09.16079+00:00",
+    "created_by": null
+  },
+  {
+    "id": "f9095902-a7ad-4f70-846d-5683dfb532bf",
+    "title": "Prévention Des Accidents",
+    "description": "Vidéo de formation - Prévention Des Accidents",
+    "duration": "5:14 minutes",
+    "video_path": "1762918455469_Prvention_Des_Accidents.mp4",
+    "thumbnail_path": "thumbnail-1762916141084.png",
+    "quiz_data": [
+      {
+        "options": [
+          "La chance",
+          "L'identification des dangers et l'élimination des risques",
+          "Travailler plus vite",
+          "Ignorer les règles"
+        ],
+        "question": "Quelle est la base de la prévention des accidents?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Un collègue sympathique",
+          "Une source potentielle de blessure ou de maladie",
+          "Un outil bien entretenu",
+          "Un horaire flexible"
+        ],
+        "question": "Qu'est-ce qu'un danger au travail?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Ils sont optionnels",
+          "Ils constituent la dernière barrière de protection contre les dangers",
+          "Ils sont seulement décoratifs",
+          "Ils ralentissent le travail"
+        ],
+        "question": "Quelle est l'importance des équipements de protection individuelle (EPI)?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Rire, Rigoler, Recommencer",
+          "Reconnaître les dangers, Réduire les risques, Réagir adéquatement",
+          "Retard, Repos, Repas",
+          "Rien, Rien, Rien"
+        ],
+        "question": "Que signifie le principe des 3R en prévention?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Seulement l'employeur",
+          "Seulement le travailleur",
+          "L'employeur ET le travailleur ensemble",
+          "Personne"
+        ],
+        "question": "Qui est responsable de la santé et sécurité au travail?",
+        "correctAnswer": 2
+      },
+      {
+        "options": [
+          "Acheter de nouveaux équipements",
+          "Identifier tous les dangers potentiels",
+          "Former tous les employés",
+          "Rédiger un rapport"
+        ],
+        "question": "Quelle est la première étape d'une analyse de risque?",
+        "correctAnswer": 1
+      }
+    ],
+    "display_order": 1,
+    "is_active": true,
+    "created_at": "2025-11-12T01:45:10.575508+00:00",
+    "updated_at": "2025-11-13T16:38:06.875871+00:00",
+    "created_by": null
+  },
+  {
+    "id": "715f4bd1-0f5c-4b9b-991d-7d797f1d91d8",
+    "title": "Aspect Légaux",
+    "description": "Vidéo de formation - Aspect Légaux",
+    "duration": "6:26 minutes",
+    "video_path": "1762918186396_Aspect_Lgaux.mp4",
+    "thumbnail_path": "thumbnail-1762915845502.png",
+    "quiz_data": [
+      {
+        "options": [
+          "Porter assistance sans dépasser ses compétences",
+          "Effectuer tous les soins médicaux nécessaires",
+          "Transporter la victime à l'hôpital",
+          "Prescrire des médicaments"
+        ],
+        "question": "Quelles sont les obligations légales d'un secouriste en milieu de travail?",
+        "correctAnswer": 0
+      },
+      {
+        "options": [
+          "Les témoins d'accidents",
+          "Les personnes qui portent assistance de bonne foi",
+          "Les professionnels de la santé uniquement",
+          "Les employeurs"
+        ],
+        "question": "Qu'est-ce que la loi du Bon Samaritain protège?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Non, jamais",
+          "Oui, sauf si la personne est inconsciente ou incapable",
+          "Seulement pour les mineurs",
+          "Uniquement en milieu de travail"
+        ],
+        "question": "Faut-il obtenir le consentement avant de porter secours?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Aucune responsabilité légale",
+          "Peut être poursuivi pour non-assistance",
+          "Doit payer une amende",
+          "Perd son permis de secouriste"
+        ],
+        "question": "Quelle est la responsabilité d'un témoin qui ne porte pas secours?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Jusqu'à l'arrivée des services d'urgence",
+          "Pendant 30 minutes maximum",
+          "Jusqu'à ce que la victime refuse l'aide",
+          "Jusqu'au transport à l'hôpital"
+        ],
+        "question": "Jusqu'où s'étend le devoir de secours?",
+        "correctAnswer": 0
+      },
+      {
+        "options": [
+          "Ne rien faire",
+          "Appeler les secours et rester avec la victime",
+          "Partir immédiatement",
+          "Demander à quelqu'un d'autre"
+        ],
+        "question": "Que doit-on faire si on ne se sent pas compétent pour intervenir?",
+        "correctAnswer": 1
+      }
+    ],
+    "display_order": 2,
+    "is_active": true,
+    "created_at": "2025-11-12T01:43:56.441425+00:00",
+    "updated_at": "2025-11-13T16:38:06.880102+00:00",
+    "created_by": null
+  },
+  {
+    "id": "34deb38b-4a8e-4645-9592-16cddd42fb5d",
+    "title": "Accident Vasculaire Cérébrale",
+    "description": "Vidéo de formation - Accident Vasculaire Cérébrale",
+    "duration": "2:16 minutes",
+    "video_path": "1762918169044_Accident_Vasculaire_Crbrale.mp4",
+    "thumbnail_path": "thumbnail-1762915833752.png",
+    "quiz_data": [
+      {
+        "options": [
+          "Faiblesse d'un côté du visage, difficulté à parler, perte d'équilibre",
+          "Douleur thoracique, essoufflement, sueurs",
+          "Étourdissements légers, fatigue, mal de tête",
+          "Nausées, vomissements, fièvre"
+        ],
+        "question": "Quels sont les premiers signes d'un AVC?",
+        "correctAnswer": 0
+      },
+      {
+        "options": [
+          "Visage, Incapacité, Trouble de la parole, Extrême urgence",
+          "Vitesse, Intensité, Temps, Évaluation",
+          "Vision, Immobilité, Trauma, Examen",
+          "Vérification, Intervention, Transport, Évacuation"
+        ],
+        "question": "Que signifie l'acronyme VITE pour reconnaître un AVC?",
+        "correctAnswer": 0
+      },
+      {
+        "options": [
+          "Donner de l'aspirine",
+          "Appeler le 911 immédiatement",
+          "Faire boire de l'eau",
+          "Faire allonger la personne"
+        ],
+        "question": "Que faut-il faire immédiatement si on suspecte un AVC?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Pour rassurer la victime",
+          "Chaque minute compte pour limiter les dommages cérébraux",
+          "Pour préparer le transport",
+          "Pour contacter la famille"
+        ],
+        "question": "Pourquoi le temps est-il crucial lors d'un AVC?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Appeler les secours",
+          "Noter l'heure des symptômes",
+          "Donner à boire ou à manger",
+          "Rassurer la victime"
+        ],
+        "question": "Que ne doit-on PAS faire en cas d'AVC?",
+        "correctAnswer": 2
+      },
+      {
+        "options": [
+          "Le côté droit du corps",
+          "Le côté gauche du corps",
+          "Les deux côtés également",
+          "Aucun côté spécifique"
+        ],
+        "question": "Quel côté du corps est généralement affecté lors d'un AVC du côté droit du cerveau?",
+        "correctAnswer": 1
+      }
+    ],
+    "display_order": 5,
+    "is_active": true,
+    "created_at": "2025-11-12T01:43:52.975253+00:00",
+    "updated_at": "2025-11-13T16:39:37.118008+00:00",
+    "created_by": null
+  },
+  {
+    "id": "5eb8ab4a-eb7a-4187-9d68-7789713eeae7",
+    "title": "Exposition Liquide Biologique",
+    "description": "Vidéo de formation - Exposition Liquide Biologique",
+    "duration": "13:17 minutes",
+    "video_path": "1762918278924_Exposition_Liquide_Biologique.mp4",
+    "thumbnail_path": "thumbnail-1762916057586.png",
+    "quiz_data": [
+      {
+        "options": [
+          "Eau et sueur uniquement",
+          "Sang, sperme, sécrétions vaginales, liquide amniotique",
+          "Salive et larmes uniquement",
+          "Urine seulement"
+        ],
+        "question": "Quels sont les liquides biologiques à risque?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Attendre la fin du quart de travail",
+          "Laver abondamment à l'eau et au savon",
+          "Appliquer de l'alcool pur",
+          "Mettre un pansement sans laver"
+        ],
+        "question": "Que faire immédiatement après une exposition au sang?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "5 secondes",
+          "30 secondes",
+          "Au moins 10-15 minutes",
+          "2 minutes"
+        ],
+        "question": "Quelle est la durée minimale de lavage après exposition?",
+        "correctAnswer": 2
+      },
+      {
+        "options": [
+          "Frotter les yeux",
+          "Rincer abondamment à l'eau pendant 15 minutes",
+          "Mettre des gouttes",
+          "Ne rien faire"
+        ],
+        "question": "Que faire en cas de projection dans les yeux?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Non, ce n'est pas nécessaire",
+          "Oui, toujours signaler et consulter un médecin",
+          "Seulement si ça saigne",
+          "Uniquement après 24 heures"
+        ],
+        "question": "Faut-il signaler une exposition à un liquide biologique?",
+        "correctAnswer": 1
+      },
+      {
+        "options": [
+          "Aucun, ce n'est pas dangereux",
+          "Gants, lunettes, masque si nécessaire",
+          "Seulement des gants",
+          "Seulement un masque"
+        ],
+        "question": "Quel équipement de protection utiliser?",
+        "correctAnswer": 1
+      }
+    ],
+    "display_order": 3,
+    "is_active": true,
+    "created_at": "2025-11-12T01:44:22.639961+00:00",
+    "updated_at": "2025-11-13T16:39:39.210652+00:00",
+    "created_by": null
+  }
+]
