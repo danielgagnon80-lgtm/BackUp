@@ -1,0 +1,15 @@
+[
+  {
+    "id": "b070b33a-9668-4b83-af8f-35b7ac73cf20",
+    "token": "75c1b6c4dd43e12d1f5352d320ec8342",
+    "is_active": false,
+    "created_by": "20475c25-8247-4c0f-9dd8-fc8228937209",
+    "created_at": "2026-04-08T15:24:36.817015+00:00",
+    "label": "Lien de partage",
+    "view_count": 0,
+    "first_viewed_at": null,
+    "last_viewed_at": null,
+    "notification_sent": false,
+    "notify_email": "daniel.gagnon@cliniqueinfirmiere.ca"
+  }
+]
