@@ -1,0 +1,21 @@
+[
+  {
+    "id": "4cda49c6-0d54-48ce-a065-b32a35c0ba16",
+    "user_id": null,
+    "date_inscription": "2026-05-05",
+    "created_at": "2026-05-05T18:34:18.15193+00:00",
+    "updated_at": "2026-05-05T18:34:18.15193+00:00",
+    "email": "daniel.gagnon80@gmail.com",
+    "magic_link": null,
+    "password_set": false,
+    "magic_link_used": false,
+    "expiration": "2026-05-26",
+    "nom": "Gag",
+    "prenom": "Dan",
+    "telephone": "819-824-7732",
+    "num_groupe": "GR=X",
+    "first_login_seen": false,
+    "num_formation": null,
+    "entreprise": "aucune"
+  }
+]
